@@ -33,10 +33,8 @@ Eric is an intelligent personal assistant designed to streamline tasks, provide 
 ## Preview
 
 <img src="<img width="1366" height="720" alt="screenshot_1" src="https://github.com/user-attachments/assets/0e59c6fa-ab54-44b9-883f-8f88950cdb06" />
-" alt="demo_1" width="95%"/>
 <br>
 <img src="<img width="1366" height="720" alt="screenshot_2" src="https://github.com/user-attachments/assets/c9cf3c88-0d01-42fa-9e88-eb667e369c06" />
-" alt="demo_2" width="95%"/>
 
 ## Usage
 - Use Voice commands to interact with Eric.
