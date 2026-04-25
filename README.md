@@ -32,9 +32,9 @@ Eric is an intelligent personal assistant designed to streamline tasks, provide 
 
 ## Preview
 
-<img src="DataBase/Screenshots/screenshot_1.png" alt="demo_1" width="95%"/>
+<img src="F:\PROJECTS\Eric-Personal-Assistant\Eric-Personal-Assistant\DataBase\Screenshots\screenshot_1.png" alt="demo_1" width="95%"/>
 <br>
-<img src="DataBase/Screenshots/screenshot_2.png" alt="demo_2" width="95%"/>
+<img src="F:\PROJECTS\Eric-Personal-Assistant\Eric-Personal-Assistant\DataBase\Screenshots\screenshot_2.png" alt="demo_2" width="95%"/>
 
 ## Usage
 - Use Voice commands to interact with Eric.
