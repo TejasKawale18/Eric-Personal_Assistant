@@ -1,0 +1,167 @@
+User : Who is Tony Stark
+Eric : Tony Stark is a billionaire industrialist and the original Iron Man. He is a founding member of the Avengers, and has also been known as the armored hero Iron Man
+Eric : okay
+User : how r u
+Eric : I'm doing well, thank you for asking!
+User : wto information
+Eric : technology agreement (wto ita) is a multilateral agreement on information technology products between 29 countries.
+The world trade organization (wto) is an international organization that deals with the global rules of trade between nations its main function is to ensure that trade flows smoothly, predictably and freely as
+User : siri
+Eric : .com/us/app/siri-remote-for-apple-tv/id1085992916?mt=8
+https://itunes.apple.com/us/app/siri-remote-for-apple-tv/id1085992916
+User : who is iron man
+Eric : Iron Man is a superhero who appears in comic books published by Marvel Comics. The character was created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby. The character made his first appearance in Tales of Suspense #39
+User : who made you
+Eric : ?
+There Is No Definite Answer To This Question As People Have Various Religious Beliefs. Some Believe That A God Or Gods Created Them, While Others Believe That They Were Simply A Result Of The Laws Of Nature.
+User : who create you
+Eric : There Is No Definite Answer To This Question As People Have Various Religious Beliefs. Some Believe That A God Or Gods Created Them, While Others Believe That They Were Simply A Result Of The Laws Of Nature.
+User : who are you
+Eric : ?
+I am Eric.
+User : wake up
+Eric : It'S Time To Wake Up.
+User : How are you
+Eric : Feeling Today?
+I'M Feeling Good Today.
+User : What are you doing
+Eric :
+"I'M Here To See You."
+"Why?"
+"I Wanted To Talk To You."
+User : who named you
+Eric : ?
+My Parents Named Me.
+User : How are you
+Eric : ?
+I'M Doing Well, Thank You.
+User : What are you doing
+Eric : ?
+I Am Currently Writing A Paper For My English Class.
+User : do you know english language
+Eric : Yes, I Do.
+User : how do you know english language
+Eric : There Is No One Answer To This Question As Everyone Has Different Experiences And Reasons For Knowing English. Some People May Have Learned English In School, While Others May Have Learned It Through Travel Or Living In An English-Speaking Country. Some People May Also Be Native English Speakers.
+User : you know a lot about english
+Eric : I Do Not Know Everything About English, But I Do Know A Lot.
+User : what do you know about english
+Eric : I Know That English Is A West Germanic Language That Was First Spoken In Early Medieval England And Is Now A Global Lingua Franca.
+User : what is your name
+Eric : My Name Is Eric.
+User : what is your name
+Eric : My Name Is Eric.
+User : tell me about laptops
+User : tell me about laptops
+Eric : Laptops Are Portable Computers That Are Small And Light Enough To Carry Around With You. They Have All The Same Features As A Desktop Computer, But They'Re Much More Convenient Because You Can Take Them Anywhere.
+User : ajmer
+Eric : (1935) And Kismet (1943).
+
+Kismet Was A Huge Success, And Led To The Production Of A Broadway Musical Version In 1953. The Musical Was Adapted For Television In 1955, With Howard Keel As Hajj.
+
+The Story Is Set In Baghdad
+User : o tha's great
+Eric : , I'M Sure You'Ll Be Fine. Just Don'T Let The Big One Bite."
+
+"What'S That Supposed To Mean?"
+
+"Oh, Nothing. Just That You'Re Going To Have A Lot Of Fun With Your New Friends." He Chuckled And Hung Up.
+
+I
+User : what is the saree
+Eric : Made Of
+
+The Saree Is Made Of A Light, Airy Fabric Such As Cotton Or Silk.
+User : o tha's great
+Eric : .
+
+
+
+I'M A Big Fan Of The Fable Games, I'Ve Played All Of Them.
+
+
+
+I'Ve Also Played All The Dragon Age Games, And I'M A Big Fan Of That Series As Well.
+
+
+
+I'M Also A Big Fan Of The Mass Effect
+User : thais
+Eric : .Com/Wp-Content/Uploads/2017/03/Sauce-Tamarin-Sucre-Cassis.Jpg" Alt="Sauce Tamarin Sucre Cassis - Sauce Tamarin Sucre De Canne"/> Sauce Tamarin Sucre Cassis
+User : who give
+Eric : Th Food To All Flesh: For His Mercy Endureth For Ever.
+
+Psalm 136:25
+
+Who Giveth Food To All Flesh: For His Mercy Endureth For Ever.
+
+Psalm 145:15-16
+
+The Eyes Of All Hope In Thee, O Lord
+User : gave thais
+Eric : Emassage Sexleksaker För Kvinnor Escorttjejer I Örebro Gratis Sexsidor Thaimassage Karlskoga Thaimassage Malmö Tantra,
+
+, Sexiga Tjejer Utan Bh Svensk
+User : who gave this name to you
+Eric : ?
+
+My Parents Gave Me This Name.
+User : do you know about taj mahal
+Eric : The Taj Mahal Is A Mausoleum Located In Agra, India. The Taj Mahal Was Built By Mughal Emperor Shah Jahan In Memory Of His Third Wife, Mumtaz Mahal. The Taj Mahal Is Considered One Of The Most Beautiful Buildings In The
+User : do you know about jill college
+Eric : I Do Not Know About Jill College.
+User : do you know about s e a l college of engineering
+Eric : No, I Don'T Know About Seal College Of Engineering.
+User : do you know about zeel college of engineering s e a
+Eric : No, I Don'T Know About Zeel College Of Engineering S E A.
+User : give this name to you
+Eric : I Name You _______.
+User : great
+Eric : Erthan(0);
+    });
+
+    It('Should Return The Number Of Rows', () => {
+      Expect(Rows.Length).To.Equal(1);
+    });
+
+    It('Should Return The Correct Row', () => {
+      Expect(Rows[0
+User : what
+Eric : Is The Best Way To Get A Job
+
+There Is No One-Size-Fits-All Answer To This Question, As The Best Way To Get A Job May Vary Depending On The Individual'S Skills, Qualifications, And Experience. However, Some Tips On How To Get A Job May Include Networking
+User : clothes settings
+Eric : .
+
+The Biggest Difference Between The Two Cameras Is That The G7 X Mark Ii Has A Flip-Out Screen, Which Makes It Easier To Take Selfies And Vlogs. The G9 X Mark Ii Doesn’T Have A Flip-Out Screen, But It Does Have A Slightly
+User : what can you
+Eric : Do With A Sociology Degree
+
+A Sociology Degree Can Lead To A Career In Social Work, Human Resources, Marketing, Management, And More.
+User : this
+Eric : .State.Isopen}
+          Onclose={This.Toggle}
+        >
+          <Navbarbrand Href="/">{This.Props.Sitetitle}</Navbarbrand>
+          <Navbartoggler Onclick={This.Toggle} />
+          <
+User : tomorrow brother
+Eric : I Will Be There For You
+User : tomorrow brother
+Eric : I Will Be There For You
+User : what is my address
+Eric : There Is No Way To Determine Your Address Without More Information.
+User : only
+Eric : String[] _Supportedtypes = New[] { "Text/Html", "Application/Xhtml+Xml" };
+
+        Public Htmlresponse(Httpwebresponse Response)
+            : Base(Response)
+        {
+            If (!_Supportedtypes.Contains(Contenttype))
+User : tasleem arif
+Eric : Qawwali Song Download
+
+Samsung Gt-S5300 Pc Suite Free Download For Windows 7
+
+Download Lagu Dangdut Koplo Sera Terbaru 2013
+
+Download Lagu Dangdut Koplo Terbaru 2014 Monata

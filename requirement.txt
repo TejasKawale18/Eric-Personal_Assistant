@@ -1,0 +1,13 @@
+pyttsx3
+requests
+geocoder
+pywhatkit
+wikipedia
+speechrecognition
+pyautogui
+bs4
+PyQt5
+geopy
+googletrans
+keyboard
+wolframalpha
